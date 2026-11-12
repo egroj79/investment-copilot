@@ -41,7 +41,4 @@ Revisar una tesis ante resultados que cambien crecimiento, márgenes o flujo de 
 
 Un movimiento de precio puede justificar actualizar la valoración, pero no demuestra por sí solo que la tesis haya mejorado o empeorado.
 
-## Revisión semanal
-
-Usar la revisión semanal como filtro de novedades para activos y tesis ya estudiados. Analizar en profundidad solo eventos que afecten supuestos centrales. No repetir análisis sin novedades ni tratar noticias como señales automáticas de inversión.
-
+La [revisión semanal](weekly-review.md) aplica estos criterios a posiciones y tesis identificadas.
