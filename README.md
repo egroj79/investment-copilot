@@ -28,13 +28,14 @@ El protocolo de fuentes y seguimiento se aplica a todos los módulos. El Decisio
 - [Valuation Engine](docs/valuation-engine.md): métodos, escenarios y sensibilidad.
 - [Portfolio Analyzer](docs/portfolio-analyzer.md): exposiciones, concentración y solapamientos.
 - [Decision Framework](docs/decision-framework.md): síntesis condicional de la evidencia.
+- [Estándar de salida](docs/analysis-output-standard.md): estructura común y criterios de confianza.
+- [Revisión semanal](docs/weekly-review.md): alcance, disparadores y formato de seguimiento.
 - [Data & Monitoring Protocol](docs/data-monitoring.md): fuentes, fechas, verificación y seguimiento.
 
 ## Estado
 
-Especificación de diseño v1.0. Esta documentación no implementa integraciones de datos, cálculos automáticos ni ejecución de operaciones.
+Especificación de diseño v1.0. Esta documentación define el método y el flujo de revisión; todavía no implementa integraciones de datos, cálculos automáticos ni ejecución de operaciones.
 
 ## Uso
 
 Indica el activo y la pregunta concreta: entender el negocio, revisar la valoración, comparar ETFs o evaluar el encaje en cartera. Si el análisis requiere datos de cartera, proporciona posiciones y pesos o valores de mercado.
-
